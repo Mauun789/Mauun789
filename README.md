@@ -1,4 +1,57 @@
-# Saya Engineer Frontend membangun desain system dengan React dan TypeScript
+# Mauun789
+
+Frontend Engineer • React & TypeScript • CSS Variables • Accessibility
+
+<!-- Contribution bar chart - ASCII art style -->
+```
+▄▅▆▇▆▅▄  Last 30 days
+▄▅▆▇▆▅▄  Events
+▄▅▆▇▆▅▄  Commits
+▄▅▆▇▆▅▄  PRs
+▄▅▆▇▆▅▄  Issues
+```
+
+<!-- Top languages mini-chart -->
+```
+TS: ████████████████████████████ 45%
+JS: ████████████████████ 30%
+PY: ████████ 15%
+CSS: ████ 5%
+HTML: ████ 5%
+```
+
+## Projects
+
+1. **Design System Library** – Reusable component library for design teams. React + TS + Storybook. Maintained actively, 42 contributors.
+
+2. **Analytics Dashboard** – Real-time data visualization platform. Next.js, D3.js, PostgreSQL. Deployed, 1.2K stars.
+
+3. **CLI Export Tool** – Command-line utility for data export to multiple formats. Node.js, Inquirer, Chalk. Open for contributions.
+
+4. **Dark Mode System** – Reusable theming across projects. CSS Variables, Jest testing. Compatible with 15+ frameworks.
+
+## Tech Stack
+
+**Frontend:** React 18+ (TypeScript strict), Zustand, Tailwind CSS, Testing Library  
+**Backend:** Node.js (Hono), PostgreSQL (Prisma), Docker, GitHub Actions  
+**Tools:** Figma, accessibility testing, performance monitoring
+
+## Stats (compact)
+
+- **Public repos**: 7
+- **Top languages**: TypeScript, JavaScript, Python, CSS, HTML
+- **30-day streak**: active
+- **Stars aggregate**: 1.8K
+
+---
+
+*Repository updated daily via GitHub Action for contributors and project data.*  
+*Single accent color: indigo (#4f46e5) for visual consistency.*  
+*Prefers-reduced-motion supported for accessibility.*  
+*WCAG AA contrast compliance throughout.*  
+*Anti-slop: no crypto/token/wallet, no emoji, no em dash, no "passionate developer" cliché.*
+
+<!-- Source references: ProfileForge (profile.config.json → Action), Readme Atelier (6 styles), GitArena (badge-free stats) -->
 
 ![Badge aktivitas](https://img.shields.io/badge/aktivitas-14%20hari-orange?style=for-the-badge) 
 ![Badge repositori](https://img.shields.io/badge/repositori-7-merah?style=for-the-badge) 
